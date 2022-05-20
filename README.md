@@ -1,7 +1,7 @@
 
 
 
-**Hello There, This is Falilah A Smart Contract Developer**
+**Hello There, I'm Falilah A Smart Contract Developer**
 -  **I’m currently working on/ building a decentralise payrol platform.**
 -  **I’m currently learning Byte code.**
 - **I’m looking to collaborate on any project relating smart contract.**
