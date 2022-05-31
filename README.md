@@ -3,7 +3,7 @@
 
 **Hello There, I'm Falilah A Smart Contract Developer**
 -  **I’m currently working on/ building a decentralise payrol platform.**
--  **I’m currently learning Byte code.**
+-  **I’m currently learning some DEFI Protocol.**
 - **I’m looking to collaborate on any project relating smart contract.**
 -  **I’m looking for help with reading your solidity codes.**
 - **I love building smart contract relating to decentralise finance.**
