@@ -1,6 +1,7 @@
 
 
 **👩🏽‍💻 Falilat Owolabi**
+
 **🌟 Smart Contract Developer | smart contract Auditor**
 
 I’m a blockchain developer and auditor with a passion for building secure smart contracts and contributing to the Web3 ecosystem. With expertise in Solidity, Cairo, and Rust, I focus on creating scalable DeFi solutions, conducting detailed audits, and enhancing developer resources.
