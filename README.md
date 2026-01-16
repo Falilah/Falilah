@@ -9,7 +9,9 @@ Let’s secure the decentralized future! 🌍
 <!--  <a href="https://linkedin.com/in/falilat-owolabi" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" style="vertical-align:top; margin:4px"></a> -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Falilah&theme=blue-green)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Falilah&show_icons=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Falilah)](https://git.io/streak-stats)
 
 
