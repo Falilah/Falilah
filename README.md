@@ -55,7 +55,7 @@ Request an audit at:
 
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | Team Name |
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
-
+|[fluid dexv2](https://audits.sherlock.xyz/contests/1225/voting/1362) | - | 2  |  [report1](https://audits.sherlock.xyz/contests/1225/voting/866), [report2](https://audits.sherlock.xyz/contests/1225/voting/1362) | 4th | - |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
