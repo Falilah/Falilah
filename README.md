@@ -29,7 +29,7 @@ Request an audit at:
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 9 High/Medium | 4 Highs  | 8 Mediums  |  >20 Lows  |
+| 12 High/Medium | 4 Highs  | 8 Mediums  |  >20 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
