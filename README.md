@@ -29,12 +29,13 @@ Request an audit at:
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 12 High/Medium | 4 Highs  | 8 Mediums  |  >20 Lows  |
+| 12 High/Medium | 6 Highs  | 9 Mediums  |  >20 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
 |                              Contest                              | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking | Team Name |
 | :---------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | :-----: | --------- |
+|  [Battle chain confidence pool](https://codehawks.cyfrin.io/c/2026-07-battlechain-confidence-pools) | - | - | 2 |      [Report1](https://codehawks.cyfrin.io/c/2026-07-battlechain-confidence-pools/s/839), [Report2](https://codehawks.cyfrin.io/c/2026-07-battlechain-confidence-pools/s/566) | 12th | |
 |  [Staking Part 2](https://codehawks.cyfrin.io/c/2025-04-starknet-part-2)   |     -     |      1      |    1     |             [Report1](https://codehawks.cyfrin.io/c/2025-04-starknet-part-2/s/cm9t5vtt60003jr0439wwps7h), [Report2](https://codehawks.cyfrin.io/c/2025-02-gamma/s/884)                        |  15th   |    VulnSeekers       |
 |   [liquidity management](https://codehawks.cyfrin.io/c/2025-02-gamma)   |     1     |      1      |    -     |             [Report1](https://codehawks.cyfrin.io/c/2025-02-gamma/s/673), [Report2](https://codehawks.cyfrin.io/c/2025-02-gamma/s/884)                        |  34th   |           |
 |   [Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi)   |     -     |      -      |             1        |             [Report](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm69mbneq000312jiymj9i222)                          |  46th   |           |
@@ -45,10 +46,13 @@ Request an audit at:
 
 |                                 Contest                                 | High risk | Medium risk | Low risk |                               Security Report                               | Ranking | Team Name |
 | :---------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------: | :-----: | --------- |
+|   [K2](https://code4rena.com/audits/2026-04-k2)           |         2 |       1     | 5          | [Report1](https://code4rena.com/audits/2026-04-k2/submissions/S-1668), [Report2](https://code4rena.com/audits/2026-04-k2/submissions/S-1683), [Report3](https://code4rena.com/audits/2026-04-k2/submissions/S-2264), [QA report](https://code4rena.com/audits/2026-04-k2/submissions/S-2576) | 15th | - |
 |      [Flare](https://code4rena.com/audits/2025-08-flare-fasset)      |     -     |      -     |   🥉      |  [Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-707)   |  6th  |           |
 |          [Virtual](https://code4rena.com/audits/2025-04-virtuals-protocol)          |     1     |      1      |    -     |   [Report1](https://code4rena.com/audits/2025-04-virtuals-protocol/submissions/S-544), [Report2](https://code4rena.com/audits/2025-04-virtuals-protocol/submissions/S-575)         |     35th
 |      [Starknet Perpetual](https://code4rena.com/audits/2025-03-starknet-perpetual)      |     -     |      1      |    -     | [Report](https://code4rena.com/audits/2025-03-starknet-perpetual/submissions/S-306) |   24th    |  Vulnseekers         |
 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) |     -     |      1      |    🥉     |       [Report](https://code4rena.com/audits/2025-01-next-generation/submissions/S-450)       |  22nd   |           |
+
+
 
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
